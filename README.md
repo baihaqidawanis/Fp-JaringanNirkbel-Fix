@@ -1,4 +1,12 @@
-`This is **_ns-3-allinone_**, a repository with some scripts to download
+`# Final Project Jaringan Nirkabel
+
+**Dibuat oleh:**
+- Muhammad Baihaqi Dawanis (5025231177)
+- Abimanyu Danendra Andarfebano (5025231182)
+
+---
+
+This is **_ns-3-allinone_**, a repository with some scripts to download
 and build the core components around the 
 [ns-3 network simulator](https://www.nsnam.org).
 More information about this can be found in the
