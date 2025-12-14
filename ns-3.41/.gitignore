@@ -1,0 +1,25 @@
+# Abaikan folder build (hasil compile)
+build/
+cmake-cache/
+CMakeFiles/
+
+# Abaikan file binary/executable
+*.o
+*.so
+*.dylib
+*.dll
+
+# Abaikan file output simulasi (XML, TR, PCAP)
+*.xml
+*.tr
+*.pcap
+*.csv
+
+# Abaikan konfigurasi editor
+.vscode/
+.idea/
+.DS_Store
+
+# Abaikan file lock
+.lock-waf
+
